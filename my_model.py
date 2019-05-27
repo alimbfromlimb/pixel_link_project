@@ -1,4 +1,9 @@
-"""Visual Attention Based OCR Model."""
+"""Visual Attention Based OCR Model.
+   I just slightly changed the output.
+   please go to  https://github.com/da03/Attention-OCR to see the original version
+"""
+
+
 
 from __future__ import absolute_import
 from __future__ import division
